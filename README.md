@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-👋 Olá! Meu nome é Gabriel, tenho 19 anos e comecei na área de TI aos 16, aprendendo por conta própria através do desenvolvimento de servidores no FiveM, onde tive meu primeiro contato com programação usando Lua. Hoje estou cursando Engenharia de Software e sigo em busca de oportunidades para evoluir, aprender mais e me desafiar com novos projetos.
+👋 Olá! Meu nome é Gabriel, tenho 20 anos e comecei na área de TI aos 16, aprendendo por conta própria através do desenvolvimento de servidores no FiveM, onde tive meu primeiro contato com programação usando Lua. Cursdei por 2 Anos Engenharia de Software e Hoje estou cursando Engenharia Eletronica e sigo em busca de oportunidades para evoluir, aprender mais e me desafiar com novos projetos.
 
 
 ## 🌐 Redes Sociais:
